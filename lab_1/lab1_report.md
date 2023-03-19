@@ -5,7 +5,7 @@ Year: 2022
 Group: K34202  
 Author: Efimov Pavel Leonidovich  
 Lab: Lab1  
-Date of create: 18.03.2023
+Date of create: 18.03.2023  
 Date of finished: 
 
 Цель работы: Изучить рабочую среду Cisco Packet Tracer, ознакомиться с интерфейсами основных устройств, типами кабелей, научиться собирать топологию. Изучить построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов Cisco 7960 в среде Packet tracer
